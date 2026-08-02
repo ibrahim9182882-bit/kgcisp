@@ -1,6 +1,0 @@
-{
-  "name": "ISP Multi-Account Status Checker",
-  "description": "Production-quality ISP multi-account connection checker and NOC dashboard with automated login verification, concurrency queue, live scheduling, and analytics.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
